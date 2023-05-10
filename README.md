@@ -1,5 +1,5 @@
 # TP2 de Seminario de informática y telecomunicaciones
-Issues y projects
+# GitHub Issues
 
 ![pio Logo](logopio.jpg)
 
@@ -10,6 +10,11 @@ Issues y projects
 ## 2.projects
 
 :construction_worker: en construccion :construction_worker:
+
+## Referencias:
+
+* https://docs.github.com/en/issues
+
 ## OJO con las Auto-Traducciones
 
 ![meme](ojotranslate.jpeg)
