@@ -6,27 +6,16 @@
 ## 1.issues: :mag:
 
 ### Manos a la Obra: :construction_worker:
+* https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues
 * https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart
 
-Para poner en practica los issues les concedi permiso de lectura a otro grupo para que puedan corregirles el repositorio de EFSI.
-cuando vean los repositorios van a ver su repositorio y el del grupo a corregir
+Para poner en practica los issues:
+* Crear un repositorio para el trabajo practico n° 4 de Proyectos de produccion
+* cada alumno tiene que encontrar un error e infromarlo como issue*
+* cada alumno tiene que generar un error (no puede ser un error de codigo/compilacion) en una rama nueva e informarlo como issue*
+* cada alumno tiene que resolver 2 issues ( y generar el pull request que corriga el error en la rama base/main)
 
-les dejo igual la tabla de equivalencia:
-
-- 1 <=>	10
-- 2	<=> 11
-- 3	<=> 12
-- 4	<=> Feli
-- 5	<=> 13
-- 6	<=> 14
-- 7	<=> 15
-- 8	<=> 16
-- 9	<=> 17
-
-## 2.projects
-
-:construction_worker: en construccion :construction_worker:
-
+(*) cuando se informa un error, se redacata/relata/cuenta/adjunta capturas del resultado erroneo osea de los sintomas, es responsabilidad de quien resuelve el issue diagnosticarlo y resolverlo  
 ## Referencias:
 
 * https://docs.github.com/en/issues
