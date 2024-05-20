@@ -12,6 +12,7 @@
 #### Para poner en practica los issues:
 * Crear un repositorio para el trabajo practico n° 4 de Proyectos de produccion
   * un alumno crea un repositorio desde cero, recordar:
+      * Nombre: 2024 - TP2 - GXX 
       * owner => PioIX
       * Privado
       * tildar la opcion Add a README file   
